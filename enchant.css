@@ -1,20 +1,3 @@
-
-@font-face {
-    font-family: 'PixelMplus12';
-    src: url('https://wgc-cosmo.com/fonts/pixelmplus12-regular.eot');
-    src: local('PixelMplus12 Regular'),
-        url('https://wgc-cosmo.com/fonts/pixelmplus12-regular.eot?#iefix') format('embedded-opentype'),
-        url('https://wgc-cosmo.com/fonts/pixelmplus12-regular.woff') format('woff'),
-        url('https://wgc-cosmo.com/fonts/pixelmplus12-regular.ttf') format('truetype');
-}
-@font-face {
-    font-family: 'PixelMplus10';
-    src: url('https://wgc-cosmo.com/fonts/pixelmplus10-regular.eot');
-    src: local('PixelMplus10 Regular'),
-        url('https://wgc-cosmo.com/fonts/pixelmplus10-regular.eot?#iefix') format('embedded-opentype'),
-        url('https://wgc-cosmo.com/fonts/pixelmplus10-regular.woff') format('woff'),
-        url('https://wgc-cosmo.com/fonts/pixelmplus10-regular.ttf') format('truetype');
-}
 body { 
     margin: 0;
     margin-left: auto;
